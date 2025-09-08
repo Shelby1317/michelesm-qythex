@@ -1,0 +1,10 @@
+{
+  "title": "My tool settings",
+  "description": "Tell the tool what to do",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "name": { "title": "Your name", "type": "string" }
+  },
+  "required": ["name"]
+}
